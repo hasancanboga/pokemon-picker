@@ -1,5 +1,7 @@
 # pokemon-app
 
+Vue.js 3.0 With Tailwind CSS And Composition API
+
 ## Project setup
 ```
 npm install
